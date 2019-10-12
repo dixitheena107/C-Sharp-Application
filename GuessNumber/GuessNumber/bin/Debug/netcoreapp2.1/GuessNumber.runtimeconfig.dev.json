@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\heena.DESKTOP-5HVPRPN\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\heena.DESKTOP-5HVPRPN\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

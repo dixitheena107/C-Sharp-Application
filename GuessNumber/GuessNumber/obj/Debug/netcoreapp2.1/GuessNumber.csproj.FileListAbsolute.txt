@@ -1,0 +1,11 @@
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\bin\Debug\netcoreapp2.1\GuessNumber.deps.json
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\bin\Debug\netcoreapp2.1\GuessNumber.runtimeconfig.json
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\bin\Debug\netcoreapp2.1\GuessNumber.runtimeconfig.dev.json
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\bin\Debug\netcoreapp2.1\GuessNumber.dll
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\bin\Debug\netcoreapp2.1\GuessNumber.pdb
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\obj\Debug\netcoreapp2.1\GuessNumber.csprojAssemblyReference.cache
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\obj\Debug\netcoreapp2.1\GuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\obj\Debug\netcoreapp2.1\GuessNumber.AssemblyInfoInputs.cache
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\obj\Debug\netcoreapp2.1\GuessNumber.AssemblyInfo.cs
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\obj\Debug\netcoreapp2.1\GuessNumber.dll
+C:\Users\heena.DESKTOP-5HVPRPN\source\repos\GuessNumber\GuessNumber\obj\Debug\netcoreapp2.1\GuessNumber.pdb
